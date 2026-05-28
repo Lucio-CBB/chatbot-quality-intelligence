@@ -179,7 +179,7 @@ Backlog natural após `shopping_cart`: `credit_card` (#2), `slow_speed` (#3).
 ## 7. Stack e Reprodutibilidade
 
 ```bash
-git clone <repo>
+git clone https://github.com/Lucio-CBB/chatbot-quality-intelligence
 cd chatbot-quality-intelligence
 pip install -r requirements.txt
 jupyter notebook
