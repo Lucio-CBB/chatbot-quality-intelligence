@@ -1,6 +1,6 @@
 # Sumário Executivo — Chatbot Quality Intelligence
 
-**Autor:** Wital  
+**Autor:** Lucio  
 **Dataset:** ABCD (ASAPP Research, 2021) — 10.042 conversas de atendimento ao cliente  
 **Objetivo do projeto:** demonstrar o arco completo de um Product Analyst: diagnóstico → priorização → experimento A/B
 
