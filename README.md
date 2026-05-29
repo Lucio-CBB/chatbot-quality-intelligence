@@ -189,6 +189,8 @@ O dataset é baixado automaticamente no notebook 01 (célula de download).
 
 **Stack:** Python 3.13, pandas, numpy, matplotlib, seaborn, scipy, NLTK (VADER), Jupyter
 
+**Desenvolvido com auxílio de [Claude](https://claude.ai) (Anthropic)** para estruturação da análise, documentação e revisão de código.
+
 ---
 
 ## 8. Limitações e Próximos Passos
