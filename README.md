@@ -1,6 +1,6 @@
 # Chatbot Quality Intelligence
 
-Pipeline de diagnóstico de qualidade de chatbot com design de experimento A/B — peça de portfólio para vagas de **Product Analyst / APM**.
+Pipeline de diagnóstico de qualidade de chatbot com design de experimento A/B 
 
 ---
 
