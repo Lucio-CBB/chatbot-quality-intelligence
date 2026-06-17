@@ -34,7 +34,7 @@ O objetivo deste projeto é construir o pipeline que vai **da métrica agregada 
 | Sub-fluxos únicos | 96 |
 | Flows pai | 10 |
 | Domínio | Atendimento ao cliente — e-commerce |
-| Rótulo de resolução | Engenheirado (ver `data/DATA_DICTIONARY.md`) |
+| Rótulo de resolução | Derivado por regra (ver `data/DATA_DICTIONARY.md`) |
 | Tamanho do arquivo raw | 121 MB |
 
 **Limitação importante:** o ABCD é um dataset Wizard-of-Oz (agentes humanos treinados simulando um bot). As intervenções são portanto projetadas como mudanças de fluxo, não como ajustes de um modelo de ML existente. Isso é explicitado nas Limitações.
